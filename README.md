@@ -1,4 +1,4 @@
-# sakgae
+# Snake Game
 Snake Game
 
 This snake game is functional yet still very much unfinished. 
